@@ -4,7 +4,51 @@
 ## Hi there 👋, I'm Md Isa Miah
 ### Web Developer
 
-My name is Md Isa Miah and I have more than 4-years of experience in web designing and website development. I can design websites that are responsive on all devices, which is great for SEO. I can build any webpage, or app you need for a very competitive price. In addition to that, I also have developed E-Commerce Projects. I use my skills with pure dedication and deliver work on time. My first priority is to meet all the client’s needs by communicating effectively and understanding the requirements. Contact me for proposals.
+I'm Md Isa Miah, a dedicated and experienced FullStack Web Developer with a passion for crafting efficient, high-quality, and user-friendly web applications. With 5 years of hands-on experience in the industry, I've honed my skills in both front-end and back-end development, allowing me to create seamless, interactive, and visually appealing websites.
+
+FullStack Proficiency: My expertise covers the entire web development spectrum. From responsive front-end design using HTML, CSS, and JavaScript (including frameworks like React), to robust back-end development with languages like Python. I've got you covered.
+
+Custom Solutions: I understand that every project is unique. That's why I pride myself on creating tailor-made solutions that perfectly align with your business goals and user needs. Whether it's an e-commerce platform, a social networking site, or a corporate web application, I'm dedicated to delivering solutions that stand out.
+
+Database Mastery: I'm skilled in designing and managing databases using SQL or SQLite technologies, ensuring efficient data storage, retrieval, and manipulation to support your application's functionality.
+
+API Integration: Need third-party integrations or seamless communication between various components? I'm well-versed in integrating APIs and building RESTful services to create cohesive and interconnected systems.
+
+API Integration: Need third-party integrations or seamless communication between various components? I'm well-versed in integrating APIs and building RESTful services to create cohesive and interconnected systems.
+
+Why Choose Me:
+
+Quality Focus: I'm a perfectionist at heart. I believe in delivering nothing short of the best quality, ensuring clean code, optimal performance, and a delightful user experience.
+
+Communication: I understand the importance of effective communication. I provide regular updates, listen to your feedback, and keep you in the loop throughout the development process.
+
+Problem-Solving: Complex challenges are my bread and butter. I thrive on finding innovative solutions to intricate technical problems, ensuring your project overcomes any obstacles it encounters.
+
+Deadline Driven: Time is of the essence, and I respect that. I'm committed to meeting deadlines without compromising on the quality of my work.
+
+What Specific service I offer
+Web Design & Development
+- HTML5
+- CSS3
+- Bootstrap 5
+- PSD2HTML
+- PSD2WORDPRESS
+-JavaScript
+-J Query
+- React
+- PHP
+- Python
+- Django
+- WordPress Expert
+- Responsive/Mobile Design
+- Bug Fix
+- Fast load times
+
+If you're looking for a FullStack Web Developer who can turn your ideas into reality, you've come to the right place. Let's collaborate to bring your web projects to life! Feel free to reach out to discuss your project and how I can contribute to its success.
+
+Looking forward to connecting with you,
+
+Md Isa Miah
 
 Skills: HTML / CSS / JavaScript / Python / Django / Wordpress
 
